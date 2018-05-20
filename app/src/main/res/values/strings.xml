@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Sense - Slank med fornuft</string>
+    <string name="title_activity_start">StartActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_info">Info</string>
+
+    //Strings til Informations siden
+    <string name="Afspil_video">Afspil video</string>
+    <string name="Sense_tekst">I Sense slipper du for trættende kalorietælling og vejning af din mad.
+ Sense er ikke en kur, men derimod en livsstil, der passer til alle.
+Sense-spisekassemodellen består af tre spisekasser, der så består af en særlig måde at sammensætte kosten på ud fra 3-4 håndfulde mad og 1-3 spiseskefulde fedtstof.
+        Alt det kan du høre mere om i de følgende videoer, hvor du får en god introduktion til Sense.</string>
+    <string name="Info_titel">Information om Sense</string>
+
+    <string name="Tilbage">Tilbage</string>
+
+    //Strings til add mad
+    <string name="gem">Gem</string>
+    <string name="add_titel">Tilføj mad til spisekassen</string>
+    <string name="add_undertitel">Tag et billede af din mad og udfyld spisekassen</string>
+    <string name="åben_kamera">Åben kamera</string>
+    <string name="Angiv_dato">angiv dato</string>
+    <string name="mma" >Angiv morgen/middag/aften</string>
+    <string name="HF12">HF1+2:(Grønt)</string>
+    <string name="HF3">HF3:(Protein)</string>
+    <string name="HF4">HF4:(Kulhydrater)</string>
+    <string name="Fedt">1-3 spsk. fedt</string>
+
+    //Strings til forside
+    <string name="log_ind">Velkommen </string>
+
+    //Strings til home fragment
+    <string name="home_titel">Velkommen til Sense</string>
+    <string name="add_mad">Tilføj mad til dagbog</string>
+    <string name="Read_mad">Vis mad dagbog</string>
+    <string name="Update_mad">Rediger mad dagbog</string>
+    <string name="Info">Information</string>
+    <string name="log_ud">Til forside</string>
+
+    //Strings til rediger
+    <string name="read_titel">Din mad dagbog!</string>
+    <string name="Cecilie">Cecilie</string>
+
+    //Strings til update
+    <string name="update_titel">Rediger spisekassen</string>
+    <string name="opdater_mad">Opdatér spisekassen </string>
+    <string name="Indlæs_mad">Indlæs spisekassen</string>
+
+
+
+</resources>

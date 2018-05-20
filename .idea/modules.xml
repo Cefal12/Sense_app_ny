@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:\Android\Sense_app\Sense_app-master\RuneTest-master.iml" filepath="C:\Android\Sense_app\Sense_app-master\RuneTest-master.iml" />
+      <module fileurl="file://C:\Android\RuneTest\RuneTest-master\Sense6-master.iml" filepath="C:\Android\RuneTest\RuneTest-master\Sense6-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sense_app-master.iml" filepath="$PROJECT_DIR$/Sense_app-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../RuneTest/RuneTest-master/app/app.iml" filepath="$PROJECT_DIR$/../../RuneTest/RuneTest-master/app/app.iml" />
+      <module fileurl="file://C:\Android\Sense_app\Sense_app-master\app\app.iml" filepath="C:\Android\Sense_app\Sense_app-master\app\app.iml" />
+    </modules>
+  </component>
+</project>
